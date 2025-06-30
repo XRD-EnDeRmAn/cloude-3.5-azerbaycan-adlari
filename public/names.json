@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Aysu",
+    "name_en": "Aysu",
+    "meaning": "Ay kimi parlaq və su kimi saf",
+    "meaning_en": "Bright as the moon and pure like water",
+    "gender": "qız",
+    "origin": "türk",
+    "similar": ["Aysel", "Aynur", "Aybəniz"]
+  },
+  {
+    "id": 2,
+    "name": "Elvin",
+    "name_en": "Elvin",
+    "meaning": "Dost, yoldaş",
+    "meaning_en": "Friend, companion",
+    "gender": "oğlan",
+    "origin": "azərbaycan",
+    "similar": ["Elmir", "Elmar", "Elgün"]
+  }
+  // ... 1000+ entries
+]
